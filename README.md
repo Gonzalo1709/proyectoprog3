@@ -1,27 +1,36 @@
-# Proyecto Programación 3
+# Proyecto de Programación III
 
-## Integrantes
-1. Kayla de Vivanco
-2. Isabella Romero
-3. Gonzalo Perea
-4. Kiara Balcazar
+A brief description of what this project does and who it's for
 
-## Explicación y Justificación
 
-## To-do por integrante
 
-### Kayla
 
-- Cosa 1
+## Authors
 
-### Isabella
+- [@Gonzalo1709](https://github.com/Gonzalo1709)
+- [kdevivanco](https://github.com/kdevivanco)
+- [iisabellaromero](https://github.com/iisabellaromero)
+- [kiarosaurus](https://github.com/Kiarosaurus)
 
-- Cosa 1
+## Tech Stack
 
-### Gonzalo
+**Client:** React, Redux, TailwindCSS
 
-- Cosa 1
+**Server:** Node, Express
 
-### Kiara
 
-- Cosa 1
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
+
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
