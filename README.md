@@ -12,8 +12,16 @@
 
 ### Kayla
 
+- Cosa 1
+
 ### Isabella
+
+- Cosa 1
 
 ### Gonzalo
 
+- Cosa 1
+
 ### Kiara
+
+- Cosa 1
