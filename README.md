@@ -8,9 +8,9 @@ A brief description of what this project does and who it's for
 ## Authors
 
 - [@Gonzalo1709](https://github.com/Gonzalo1709)
-- [kdevivanco](https://github.com/kdevivanco)
-- [iisabellaromero](https://github.com/iisabellaromero)
-- [kiarosaurus](https://github.com/Kiarosaurus)
+- [@kdevivanco](https://github.com/kdevivanco)
+- [@iisabellaromero](https://github.com/iisabellaromero)
+- [@kiarosaurus](https://github.com/Kiarosaurus)
 
 ## Tech Stack
 
@@ -20,7 +20,7 @@ A brief description of what this project does and who it's for
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+C++, OpenCV, HTML, CSS
 
 
 ## Roadmap
@@ -29,6 +29,9 @@ Javascript, HTML, CSS...
 
 - Add more integrations
 
+## ToDo List
+
+-
 
 ## Documentation
 
